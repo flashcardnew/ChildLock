@@ -1,2 +1,2 @@
-{ "status":1, 
-"currentTime":"https://www.baidu.com"}
+{ "status":0, 
+"currentTime":""}
