@@ -1,2 +1,2 @@
 { "status":1, 
-"currentTime":"http://www.baidu.com"}
+"currentTime":"https://www.baidu.com"}
