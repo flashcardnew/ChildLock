@@ -1,2 +1,5 @@
-{ "status":0, 
-"currentTime":""}
+{ "status":1, 
+"currentTime":"",
+"image":"",
+"age":"",
+"gender":""}
