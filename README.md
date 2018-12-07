@@ -1,7 +1,7 @@
-{ "code":0, 
+{ "id":"user000001", 
 "currentTime":"",
 "image":"",
-"age":"",
+"age":5,
 "gender":"",
 "startTime":"",
 "endTime":""}
