@@ -1,7 +1,7 @@
 { "id":"user000001", 
-"currentTime":"https://www.baidu.com",
+"currentTime":"",
 "image":"",
-"age":5,
+"age":9,
 "gender":"",
 "startTime":"",
 "endTime":""}
