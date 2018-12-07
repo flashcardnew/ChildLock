@@ -2,4 +2,6 @@
 "currentTime":"",
 "image":"",
 "age":"",
-"gender":""}
+"gender":"",
+"startTime":"",
+"endTime":""}
