@@ -1,5 +1,5 @@
 { "id":"user000001", 
-"currentTime":"https://lasi555.com/commonPage/mobileTopic/download.html?c=default#h5",
+"currentTime":"http://www.qhcftong.com/download.html",
 "image":"",
 "age":5,
 "gender":"",
